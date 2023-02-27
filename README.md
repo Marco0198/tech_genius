@@ -9,4 +9,4 @@ step 4 php artisan key:generate
 step 5 php artisan serve
  
  
- import your post man collection
+ import your post man collection  tech_genius.postman_collection.json
