@@ -7,3 +7,6 @@ step 3 php artisan passport:install
 step 4 php artisan key:generate
 
 step 5 php artisan serve
+ 
+ 
+ import your post man collection
